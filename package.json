@@ -1,0 +1,19 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "Snapterest from React Essentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypr2771/snapterest.git"
+  },
+  "author": "Vincent Castelluci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypr2771/snapterest/issues"
+  },
+  "homepage": "https://github.com/hypr2771/snapterest#readme"
+}
