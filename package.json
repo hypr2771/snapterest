@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hypr2771/snapterest/issues"
   },
-  "homepage": "https://github.com/hypr2771/snapterest#readme"
+  "homepage": "https://github.com/hypr2771/snapterest#readme",
+  "devDependencies": {
+    "browserify": "^16.2.3"
+  }
 }
