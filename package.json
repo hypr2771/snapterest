@@ -4,6 +4,7 @@
   "description": "Snapterest from React Essentials",
   "main": "index.js",
   "scripts": {
+    "gulp": "npx gulp default",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,14 @@
   },
   "homepage": "https://github.com/hypr2771/snapterest#readme",
   "devDependencies": {
-    "browserify": "^16.2.3"
+    "@babel/core": "^7.2.0",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.0",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   }
 }
